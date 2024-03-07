@@ -1,3 +1,15 @@
+# Impression
+
+## Pros
+
+- nothing...
+
+## Cons
+
+- 他候補と比べて特筆すべき優位がない
+- type safe な `Link` や `useParams` のためにはカスタマイズする必要がありそうで、ひと手間かかる
+  - [vite を使って Next.js みたいにルーティングしたい - uzimaru's Blog](https://blog.uzimaru.com/entries/dirbase-route-for-vite.md)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
